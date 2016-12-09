@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.0_6fc62ffc3137f292de979498e1230d975b95feb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.0_b5270402f78ae634de0318e583ae827d795c7149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_671e433104aee86072f5fe92d98a3353a8f51fe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9f21fced833ea3886c69d417792c0236b4c726ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_e122eeaf3eefe37fc964e9eb6519db42a9b678de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.0_353c8e453e8f7decf5f6f9598ac22b5730466c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a13d455607eb3e9366def7c8c4d16eef327d6bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e44de7ba4cb892e4a91e1c126b34dc9fde304883">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9aae80d28cad9f23148268ccebc6135695f9853f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2a4bfcb6e583647e98a8e62541e30909e06bf6f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_ec95b931bc3af77a7cd6e18cb646ef5a7e2686cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.0_1de289c05064c41739f8717fb5d3885b6c483857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_994cd5c15dc8dd50c26f174bf1385c9d5bc0d137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.0_fbe2362ede6df49190426287ca12665b7eea0825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.0_671184aa2398603c73ba97c5ada9fd3cffa2301e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c304beaad04b87ac6ae1191c73263f9fd78e4400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\5.0\1f065373aeef355dd9e2fd9854efd5ed4d54f6d\ormlite-android-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\ormlite-android-5.0_e716ae2a8740f97a3a930c10d9af3f6a6693e8af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_e031e5a544c111c2f016a13037c149cb1f7f6f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_8c5c37e37b85f496dfa401c92e663545c691719e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d5d9c080fe1282b447ed3ae9790af4082fe0b9a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d701f2b3aea961f00f96c0e10179ae2f0c8f56d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.0_7f593d57315bd4c94c43de87728080851ec3e2f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d48190fec403c169583adae982b8e464f2fd85cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.0_ad69cddd794f01b4820e80d5c44a2d931365a39d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.0_ceda03c5e378248ff0f9dc0dc0d7ce7c05a606c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.10\247811bfc4d8f4e99c909236eadf4dfc6dfa1615\itextg-5.5.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="247811bfc4d8f4e99c909236eadf4dfc6dfa1615">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\itextg-5.5.10_33fa018377007dfe8187081603521491b5f10c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.0_dba0ff575c81e897f549f03ea2d6b8302699b824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.0_989e2974ee20d685f3359d8f58380e4e175e60eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.0_782b49cee4c304b83a8b4bd1ae2de2309eca41a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_90492afa7a6104320991df6b4b6ca217f1bc3ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.0_474d006ce1fbe54d75bb93db2640dc3bbc6b7b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_a614f721b1fd04b2ae23d39c08cdd930c082f7d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9707122f0ebdbcd0a4a63a3fff87a35f289330ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.0_fc680b0921fbaa048cfbfb9159ff8c66520fdaec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_49432656fc5e27693eb4a791216777d8075ef1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.2\5e227e2d794cf680dd34fb04dd564ce58d6c764d\baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e227e2d794cf680dd34fb04dd564ce58d6c764d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.2_a0b88daebb1ec2a9b5438e148771dc0e92eb97bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.0_3c4207cc5b88233ce4607cb077ce80e82aec139e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.0_39c5e4fcbf2d3c40426f14cd5fb498cfde85ef97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.0_7975995b8b670cc587fcc07a80e196961898da34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9cb216683aea4ba9b43f781be9d71ea47347ff48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.0_e7bad21dabbcb4c1f5bc742870c17d0e037fa9c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="24bedbcec5401aa024ca9236c60f64e9e0c83d61">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ead8a1c02a8a6b45e5fe44ab7eccfa3bef85b8cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3ca03dfaa4bb27af68df07db49c2be20278656e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.0_4ab2d4e5f0c9ef5f37b2634d2cc907379faefb54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_da4b5771561298ea9a28c5dc5eb475b9353c8551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.0_22b9944e22b244d880dd1aac03e1645de61e515b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_58cdfa905054ff8a441aa2da591af05cd3ae32e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.0_3bc59885f5f38b3e4cbc2063d67e2aec8c979bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_59f415a31c0673f31a13f00b9cd1eb43df3394b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7f1695dc0bb8d42afe381d0d05496a54c20132c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_da260c939d7e579ef41dba0547e94d19be360cf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.0_78519f59f40a5ddc6a00fffd8c2cd85b22f93961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.0_010003083521627e05f283ec3cf5708869b4e605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.0_8751df160e6a1e6f1f5e5e5b4f0cab2a8f19fe14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.0_0936d374b9238a0f65bb9aaef99bc6f0f788c893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.0_9dd4fab5faabebeae7dd83f3d6f9531cce1276b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c6f1def9f9e405fd8a150226ad7f4a1b9efa8f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_2d2ffa9ebfa3921ff5b4c7a1941b18292b86336c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_7334718ed670de7febb93140015af8d549be72ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_b07ffaa7e341c5f88a96f2dd892251d9f274eba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a204bfa1d1902f8bdc92538c6344eab3998fe3fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.0_c9bfca846d8a103825147dd69978fddf965751a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_99b88ccc89a24d7081cd68ae7ea62d18d49cd489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.0_4844c6b8a37c37c4c6db2e3ccabd728fed83930d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_483a302ecae3c5cbaa97d14cf20b9ef11c9f01f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.0_3c67fd161fdfea97438ae2bbc5b628482babf069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\5.0\3382b8260646dd334a1b9c1b3d412fcb73d8b21\ormlite-core-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\ormlite-core-5.0_2a2c40eca8b806eaf0bb8843766a831ce2f4e011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.0_09273853211540b8eddc70586de58ffe785a82e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.0_a968d752eee3b9a45d0a6db81b78757afa961627\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\com.itextpdf.tool\xmlworker\5.5.10\4f9dd1936d1163639c08619631313e3ae4778e49\xmlworker-5.5.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4f9dd1936d1163639c08619631313e3ae4778e49">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\xmlworker-5.5.10_dc05facda468accf5571bf0cc2420bd5b3e7ab9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9852d12d96dfc488d75293db42a10cade200bc77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.0_e99bad9098e087ec39f80e2f9243519433a9839b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.0_ec812b886f125210f520b9ee26a92ff735973be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.0_b9c0937a2933495439f915154e165d84de0b81cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b74f844852d972a846b677180fe4ea8196ec3c2">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df69cd6404f36b4fcfacbc7a697a76c0fd8b510c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.0_fcc78c8e1c20bd2ab39b72266ce724030ee54a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9182b786700823d8218d90d09638d37c613c655b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.0_87bb78ce724f34e8bdd48f21c7e2a029462b1181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_646c94b5065fab52649b42e23b3069993bb04b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.0_3dd394bbe87e648340c138f7a6c67f815c043415\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_018d01f0786680b48fb9624dd8948c26126893f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.0_70d060683e76a0a74a1cbc17402c2f7f4ae111c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.0_f8e091082c905fa1935016a9c116a8ee811ad067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.0_54f7ecd554bdbe0e388b4e72c1ca4afc81aba215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4f800e6d6d34285aeb5d908541884d1bd0d68c2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.0_feb2cb564eab6d807cc9ac7645082c43d6f896ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="167bc31e62abef796fc3cfd939a471e3dfe21e30">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6074c82d6e1961bc942c20f7f3dcf2d06051cb99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.0_1b1602061ffe941ebed976608dac0b7a112defa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.0_ec9185f466c48628b2ee37fcbc1256b384d4d9a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_0f2ed14effcffc4500c0f7645723173a5338137a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.0_19b1e6870784c298303c8bfb8ca10f7fdd72fe4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.0_5f0373f7e2d19acc42cb746b850faf407d054b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_bfe29ffb8dcb1870182ccfa7788240fabc00831b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_0d096ed5d4c510796e1f5357229abae0903a6f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.0_c9e46a899dc57e600b2bb5223d5019feade68b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e6f6c91a1356981ede7e6ad8c2786d62a26c8b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.0_8579efc6b6b9b8b1f717fb65d502bcb435cb9416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.0_dbaf6857b943171093eb1626208bc1b11c73e4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_9ad81d76c04e0a2997f74b74116146f298577014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_e50235eccadd9aa3ad09bb64818e9763de2ee5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5774a6445260c28b155cca2fec7bd5d9f10e6ffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9729f415a6b115ee65e57807639f2218c0d2e639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="C:\Users\Pablo\Desktop\GIT\ProyectoDAM-GPS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.0_6ac62dc7e103016c474921efb89ff5c7daadd854\classes.dex" />
+    </item>
+
+</items>
